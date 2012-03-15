@@ -1,10 +1,14 @@
-# Jenkins plugins packages
-With this small helper it is possible to package any Jenkins plugin as a Debian package.
+# Jenkins packages
 
-## Why
-The easiest way to install any software on a Linux box in an automated way (eg using puppet) is to use the built-in package manager.
+Script to get Jenkins and Jenkins plugins into your Debian package repository.
+
+## Why?
+
+The easiest way to install any software on a Linux box in an automated
+way (eg using puppet) is to use the built-in package manager.
 
 ## How
+
 You need:
 
 * ruby and [fpm](https://github.com/jordansissel/fpm)
@@ -18,5 +22,8 @@ You do:
 
 ## TODO
 
-- Create an additional package that has all plugins (with their corresponding versions) as dependencies, so you need to define only one package to be installed.
-- RPM support
+- Create an additional package that has all plugins (with their
+  corresponding versions) as dependencies, so you need to define only
+  one package to be installed.
+- RPM support (?)
+

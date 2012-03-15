@@ -25,12 +25,13 @@ package() {
     mkdir -p "$work/$name/$version/var/lib/jenkins/plugins"
     cd "$work"
     cp "$download/$name/$version/$name.hpi" "$work/$name/$version/var/lib/jenkins/plugins"
-    fpm -s dir -t deb --name "jpi-$name" --version "$version" --depends 'jenkins' -a all -C "$work/$name/$version" --post-install "$base/post-install.sh" .
+    $fpm -s dir -t deb --name "jpi-$name" --version "$version" --depends 'jenkins' -a all -C "$work/$name/$version" --post-install "$base/post-install.sh" .
 }
 
 base=$(dirname $(readlink -f "$0"))
 work="$base/work"
 download="$base/download"
+fpm=fpm1.8
 
 set -e
 
