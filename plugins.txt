@@ -4,6 +4,7 @@ ansicolor 0.2.1
 build-pipeline-plugin 1.2.3
 build-timeout 1.8
 built-on-column 1.1
+checkstyle 3.26
 claim 1.7
 compact-columns 1.9
 config-autorefresh-plugin 1.0
