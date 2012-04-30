@@ -6,6 +6,7 @@ build-timeout 1.8
 built-on-column 1.1
 checkstyle 3.26
 claim 1.7
+cobertura 1.3
 compact-columns 1.9
 config-autorefresh-plugin 1.0
 cvs 2.0
@@ -25,11 +26,13 @@ locks-and-latches 0.6
 matrixtieparent 1.1
 notification 1.4
 parameterized-trigger 2.14
+play-autotest-plugin 0.0.12
 radiatorviewplugin 1.13
 rebuild 1.10
 release 2.2
 rubyMetrics 1.5.0
 saferestart 0.2
+seleniumhq 0.4
 startup-trigger-plugin 1.1
 subversion 1.39
 warnings 4.4
