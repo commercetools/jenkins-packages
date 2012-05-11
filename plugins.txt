@@ -35,4 +35,5 @@ saferestart 0.2
 seleniumhq 0.4
 startup-trigger-plugin 1.1
 subversion 1.39
+violations 0.7.10
 warnings 4.4
