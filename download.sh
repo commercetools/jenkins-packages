@@ -14,5 +14,5 @@ mkdir -p "work"
 cd "work"
 
 # download
-jenkins="1.460"
+jenkins="1.470"
 wget "$base/jenkins_${jenkins}_all.deb"
