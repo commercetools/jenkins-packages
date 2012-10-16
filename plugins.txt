@@ -10,8 +10,10 @@ cobertura 1.6
 compact-columns 1.9
 config-autorefresh-plugin 1.0
 cvs 2.5
+dry 2.31
 email-ext 2.24.1
 exclusive-execution 0.7
+findbugs 4.43
 git 1.1.22
 github 1.4
 github-api 1.28
@@ -27,6 +29,7 @@ matrixtieparent 1.1
 notification 1.4
 parameterized-trigger 2.15
 play-autotest-plugin 0.0.12
+pmd 3.31
 radiatorviewplugin 1.13.1
 rebuild 1.14
 release 2.2
@@ -35,5 +38,6 @@ saferestart 0.2
 seleniumhq 0.4
 startup-trigger-plugin 1.1
 subversion 1.42
+tasks 4.33
 violations 0.7.10
 warnings 4.15
