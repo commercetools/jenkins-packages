@@ -30,7 +30,7 @@ matrixtieparent 1.1
 notification 1.4
 parameterized-trigger 2.16
 play-autotest-plugin 0.0.12
-pmd 3.33
+pmd 3.38
 radiatorviewplugin 1.13
 rebuild 1.16
 release 2.3
