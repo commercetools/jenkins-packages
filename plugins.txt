@@ -3,7 +3,7 @@ ansicolor 0.3.1
 build-pipeline-plugin 1.2.3
 build-timeout 1.8
 built-on-column 1.1
-checkstyle 3.32
+checkstyle 3.39
 claim 1.7
 cobertura 1.8
 compact-columns 1.9
