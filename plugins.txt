@@ -12,7 +12,7 @@ cvs 2.7
 dry 2.33
 email-ext 2.25
 exclusive-execution 0.7
-findbugs 4.45
+findbugs 4.56
 gatling 1.0.0
 git 1.1.26
 github 1.3
