@@ -1,4 +1,4 @@
-analysis-core 1.48
+analysis-core 1.56
 ansicolor 0.3.1
 build-pipeline-plugin 1.2.3
 build-timeout 1.8
