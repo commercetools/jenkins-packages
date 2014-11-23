@@ -29,7 +29,7 @@ notification 1.4
 parameterized-trigger 2.16
 play-autotest-plugin 0.0.12
 pmd 3.39
-radiatorviewplugin 1.13
+radiatorviewplugin 1.22
 rebuild 1.16
 release 2.4.1
 rubyMetrics 1.5.0
